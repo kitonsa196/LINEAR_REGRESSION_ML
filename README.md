@@ -19,7 +19,7 @@ Evaluated the models using R_2 score, Mean Absolute Error, Mean Squared Error
 -Matplotlib
 -Seaborn
 -Scikit-learn
-Jupyter Notebook
+-Jupyter Notebook
 
 ## Dataset
 Students Performance in Exams Dataset from Kaggle
