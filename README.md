@@ -8,7 +8,6 @@ This project uses machine learning (Linear Regression) to predict students math 
 -Visualised relationships between the students' scores
 -Split the data into training and testing sets
 -Built a Linear Regression model
--Built an XGBoost Regression model
 Evaluated the models using R_2 score, Mean Absolute Error, Mean Squared Error
 -Analysed the model residuals
 
