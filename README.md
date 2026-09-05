@@ -22,7 +22,7 @@ Evaluated the models using R_2 score, Mean Absolute Error, Mean Squared Error
 Jupyter Notebook
 
 ## Dataset
-Students Performance Dataset from Kaggle
+Students Performance in Exams Dataset from Kaggle
 
 ## Author
 KITONSA JOEL
